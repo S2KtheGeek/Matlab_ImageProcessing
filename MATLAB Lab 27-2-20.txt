@@ -1,0 +1,3 @@
+Image processing assignment :-
+
+Divide an image into a number of blocks calculate the mean and sd of each block.
